@@ -1,4 +1,4 @@
-### Hello !
+### Hello !👋
 
 <!--
 **minzarddillah/minzarddillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,4 @@ I have over 2 years of experience working in programming. Currently, I work as t
 
 When my nose isn't pressed up against a screen, you can find me cycling, eating pastries, or planning future trips to the ever-growing number of places I want to travel to someday.
 
-I also like meeting new people over a cup of coffee. Feel free to reach out me at LinkedIn.
-
-
-4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
+I also like meeting new people over a cup of coffee. Feel free to reach out me at [LinkedIn](https://www.linkedin.com/in/minzarddillah/).
