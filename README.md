@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello !
 
 <!--
 **minzarddillah/minzarddillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I have over 2 years of experience working in programming. Currently, I work as the Front-End Developer at Jagoapa (PT. Jadi Jago Mengudara), where I create a learning app then publish it to playstore and create an admin dashboard website.
+
+When my nose isn't pressed up against a screen, you can find me cycling, eating pastries, or planning future trips to the ever-growing number of places I want to travel to someday.
+
+I also like meeting new people over a cup of coffee. Feel free to reach out me at LinkedIn.
+
+
+4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
