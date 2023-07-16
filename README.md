@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/minzarddillah/minzarddillah/main/banner.png" alt="hi">
 
-I have over 2 years of experience working in programming. Currently, I work as the Front-End Developer at Jagoapa (PT. Jadi Jago Mengudara), where I create a learning app then publish it to [playstore](https://play.google.com/store/apps/details?id=com.jagoapa) and create an admin dashboard website.
+I have over 4 years of experience working in programming. Currently, I work as Mobile Developer at Pina Indonesia.
 
 When my nose isn't pressed up against a screen, you can find me cycling, eating pastries, or planning future trips to the ever-growing number of places I want to travel to someday.
 
